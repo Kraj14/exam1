@@ -1,5 +1,5 @@
 # fruits
 1. mango
- **berry**
- *popai*
+- **berry**
+- *popai*
 - graps
